@@ -1,6 +1,4 @@
-# Portfolio
-
-Welcome to my portfolio!
+# Welcome to my portfolio!
 
 I created this site to share a little bit about myself. 
 
